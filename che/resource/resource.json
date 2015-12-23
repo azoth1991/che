@@ -1,0 +1,40 @@
+{
+"resources":
+	[
+		{"name":"startbtn","type":"image","url":"assets/startbtn.png"},
+      {"name":"car","type":"image","url":"assets/car.png"},
+	  {"name":"taxi","type":"image","url":"assets/taxi.png"},
+	  {"name":"sanlun","type":"image","url":"assets/sanlun.png"},
+	  {"name":"blackcar","type":"image","url":"assets/blackcar.png"},
+	  {"name":"endback","type":"image","url":"assets/endback.png"},
+	  {"name":"countview","type":"image","url":"assets/countview.png"},
+	  {"name":"road","type":"image","url":"assets/street.png"},
+	  {"name":"restart","type":"image","url":"assets/restart.png"},
+	  {"name":"check","type":"image","url":"assets/check.png"},
+	  {"name":"award","type":"image","url":"assets/award.png"},
+      {"name":"ef1","type":"image","url":"assets/ef1.png"},
+      {"name":"ef2","type":"image","url":"assets/ef2.png"},
+      {"name":"ef3","type":"image","url":"assets/ef3.png"},
+      {"name":"mask","type":"image","url":"assets/mask.png"},
+	  {"name":"startback","type":"image","url":"assets/startback.png"},
+	  {"name":"noaward","type":"image","url":"assets/noaward.png"},
+      {"name":"guid","type":"image","url":"assets/guid.png"},
+      {"name":"postBtn","type":"image","url":"assets/postBtn.png"},
+      {"name":"bike","type":"image","url":"assets/bike.png"},
+      {"name":"arrow","type":"image","url":"assets/arrow.png"},
+      {"name":"success","type":"image","url":"assets/success.png"},
+      {"name":"boy","type":"image","url":"assets/boy.png"},
+      {"name":"tag","type":"image","url":"assets/tag.png"},
+      {"name":"message","type":"image","url":"assets/message.png"},
+	  {"name":"share","type":"image","url":"assets/share.png"},
+	  {"name":"weiweipinche","type":"image","url":"assets/weiweipinche.png"},
+	  {"name":"figer","type":"image","url":"assets/figer.png"},
+	  {"name":"lotteryBtn","type":"image","url":"assets/lotteryBtn.png"},
+      {"name":"gril","type":"image","url":"assets/gril.png"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"ef1,ef2,ef3,share,tag,figer,weiweipinche,message,postBtn,lotteryBtn,arrow,startbtn,car,bike,mask,taxi,success,endback,road,guid,restart,check,countview,noaward,blackcar,sanlun,award,startback,boy,gril"}
+	]
+}
